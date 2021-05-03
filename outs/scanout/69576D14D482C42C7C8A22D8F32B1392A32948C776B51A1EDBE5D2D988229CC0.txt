@@ -1,0 +1,9 @@
+Soot started on Tue Apr 27 13:03:41 AEST 2021
+Soot finished on Tue Apr 27 13:03:54 AEST 2021
+Soot has run for 0 min. 13 sec.
+Found 1 additional DEX files. Now visiting them one by one.
+Soot started on Tue Apr 27 13:03:54 AEST 2021
+Soot finished on Tue Apr 27 13:03:58 AEST 2021
+Soot has run for 0 min. 3 sec.
+The following APIs are used by this app:
+android.location.LocationManager.requestLocationUpdates.String.long.float.LocationListener

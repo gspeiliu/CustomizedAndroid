@@ -1,0 +1,8 @@
+Soot started on Tue Apr 27 15:12:40 AEST 2021
+Soot finished on Tue Apr 27 15:13:11 AEST 2021
+Soot has run for 0 min. 30 sec.
+Found 2 additional DEX files. Now visiting them one by one.
+Soot started on Tue Apr 27 15:13:11 AEST 2021
+Soot finished on Tue Apr 27 15:13:42 AEST 2021
+Soot has run for 0 min. 31 sec.
+Soot started on Tue Apr 27 15:13:42 AEST 2021

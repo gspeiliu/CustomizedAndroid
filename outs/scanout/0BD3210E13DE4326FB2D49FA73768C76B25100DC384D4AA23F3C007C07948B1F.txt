@@ -1,0 +1,136 @@
+Soot started on Tue Apr 27 16:27:36 AEST 2021
+Soot finished on Tue Apr 27 16:28:03 AEST 2021
+Soot has run for 0 min. 27 sec.
+Found 40 additional DEX files. Now visiting them one by one.
+Soot started on Tue Apr 27 16:28:03 AEST 2021
+Soot finished on Tue Apr 27 16:28:11 AEST 2021
+Soot has run for 0 min. 7 sec.
+Soot started on Tue Apr 27 16:28:11 AEST 2021
+Soot finished on Tue Apr 27 16:28:17 AEST 2021
+Soot has run for 0 min. 6 sec.
+Soot started on Tue Apr 27 16:28:17 AEST 2021
+Soot finished on Tue Apr 27 16:28:21 AEST 2021
+Soot has run for 0 min. 4 sec.
+Soot started on Tue Apr 27 16:28:21 AEST 2021
+Soot finished on Tue Apr 27 16:28:35 AEST 2021
+Soot has run for 0 min. 13 sec.
+Soot started on Tue Apr 27 16:28:35 AEST 2021
+Soot finished on Tue Apr 27 16:28:36 AEST 2021
+Soot has run for 0 min. 1 sec.
+Soot started on Tue Apr 27 16:28:36 AEST 2021
+Soot finished on Tue Apr 27 16:28:40 AEST 2021
+Soot has run for 0 min. 3 sec.
+Soot started on Tue Apr 27 16:28:40 AEST 2021
+Soot finished on Tue Apr 27 16:28:41 AEST 2021
+Soot has run for 0 min. 1 sec.
+Soot started on Tue Apr 27 16:28:41 AEST 2021
+Soot finished on Tue Apr 27 16:28:44 AEST 2021
+Soot has run for 0 min. 2 sec.
+Soot started on Tue Apr 27 16:28:44 AEST 2021
+Soot finished on Tue Apr 27 16:28:47 AEST 2021
+Soot has run for 0 min. 2 sec.
+Soot started on Tue Apr 27 16:28:47 AEST 2021
+Soot finished on Tue Apr 27 16:28:48 AEST 2021
+Soot has run for 0 min. 1 sec.
+Soot started on Tue Apr 27 16:28:48 AEST 2021
+Soot finished on Tue Apr 27 16:28:48 AEST 2021
+Soot has run for 0 min. 0 sec.
+Soot started on Tue Apr 27 16:28:48 AEST 2021
+Soot finished on Tue Apr 27 16:28:50 AEST 2021
+Soot has run for 0 min. 1 sec.
+Soot started on Tue Apr 27 16:28:50 AEST 2021
+Soot finished on Tue Apr 27 16:28:52 AEST 2021
+Soot has run for 0 min. 1 sec.
+Soot started on Tue Apr 27 16:28:52 AEST 2021
+Soot finished on Tue Apr 27 16:29:11 AEST 2021
+Soot has run for 0 min. 19 sec.
+Soot started on Tue Apr 27 16:29:11 AEST 2021
+Soot finished on Tue Apr 27 16:29:28 AEST 2021
+Soot has run for 0 min. 16 sec.
+Soot started on Tue Apr 27 16:29:28 AEST 2021
+Soot finished on Tue Apr 27 16:29:29 AEST 2021
+Soot has run for 0 min. 1 sec.
+Soot started on Tue Apr 27 16:29:29 AEST 2021
+Soot finished on Tue Apr 27 16:29:32 AEST 2021
+Soot has run for 0 min. 2 sec.
+Soot started on Tue Apr 27 16:29:32 AEST 2021
+Soot finished on Tue Apr 27 16:29:37 AEST 2021
+Soot has run for 0 min. 4 sec.
+Soot started on Tue Apr 27 16:29:37 AEST 2021
+Soot finished on Tue Apr 27 16:29:39 AEST 2021
+Soot has run for 0 min. 2 sec.
+Soot started on Tue Apr 27 16:29:39 AEST 2021
+Soot finished on Tue Apr 27 16:29:40 AEST 2021
+Soot has run for 0 min. 1 sec.
+Soot started on Tue Apr 27 16:29:40 AEST 2021
+Soot finished on Tue Apr 27 16:29:44 AEST 2021
+Soot has run for 0 min. 3 sec.
+Soot started on Tue Apr 27 16:29:44 AEST 2021
+Soot finished on Tue Apr 27 16:29:47 AEST 2021
+Soot has run for 0 min. 3 sec.
+Soot started on Tue Apr 27 16:29:47 AEST 2021
+Soot finished on Tue Apr 27 16:29:52 AEST 2021
+Soot has run for 0 min. 4 sec.
+Soot started on Tue Apr 27 16:29:52 AEST 2021
+Soot finished on Tue Apr 27 16:29:54 AEST 2021
+Soot has run for 0 min. 2 sec.
+Soot started on Tue Apr 27 16:29:54 AEST 2021
+Soot finished on Tue Apr 27 16:29:56 AEST 2021
+Soot has run for 0 min. 1 sec.
+Soot started on Tue Apr 27 16:29:56 AEST 2021
+Soot finished on Tue Apr 27 16:30:02 AEST 2021
+Soot has run for 0 min. 5 sec.
+Soot started on Tue Apr 27 16:30:02 AEST 2021
+Soot finished on Tue Apr 27 16:30:07 AEST 2021
+Soot has run for 0 min. 5 sec.
+Soot started on Tue Apr 27 16:30:07 AEST 2021
+Soot finished on Tue Apr 27 16:30:12 AEST 2021
+Soot has run for 0 min. 4 sec.
+Soot started on Tue Apr 27 16:30:12 AEST 2021
+Soot finished on Tue Apr 27 16:30:17 AEST 2021
+Soot has run for 0 min. 5 sec.
+Soot started on Tue Apr 27 16:30:17 AEST 2021
+Soot finished on Tue Apr 27 16:30:19 AEST 2021
+Soot has run for 0 min. 1 sec.
+Soot started on Tue Apr 27 16:30:19 AEST 2021
+Soot finished on Tue Apr 27 16:30:19 AEST 2021
+Soot has run for 0 min. 0 sec.
+Soot started on Tue Apr 27 16:30:19 AEST 2021
+Soot finished on Tue Apr 27 16:30:21 AEST 2021
+Soot has run for 0 min. 1 sec.
+Soot started on Tue Apr 27 16:30:21 AEST 2021
+Soot finished on Tue Apr 27 16:30:23 AEST 2021
+Soot has run for 0 min. 1 sec.
+Soot started on Tue Apr 27 16:30:23 AEST 2021
+Soot finished on Tue Apr 27 16:30:30 AEST 2021
+Soot has run for 0 min. 7 sec.
+Soot started on Tue Apr 27 16:30:30 AEST 2021
+Soot finished on Tue Apr 27 16:30:40 AEST 2021
+Soot has run for 0 min. 10 sec.
+Soot started on Tue Apr 27 16:30:40 AEST 2021
+Soot finished on Tue Apr 27 16:30:41 AEST 2021
+Soot has run for 0 min. 0 sec.
+Soot started on Tue Apr 27 16:30:41 AEST 2021
+Soot finished on Tue Apr 27 16:31:04 AEST 2021
+Soot has run for 0 min. 22 sec.
+Soot started on Tue Apr 27 16:31:04 AEST 2021
+Soot finished on Tue Apr 27 16:31:07 AEST 2021
+Soot has run for 0 min. 3 sec.
+Soot started on Tue Apr 27 16:31:07 AEST 2021
+Soot finished on Tue Apr 27 16:31:08 AEST 2021
+Soot has run for 0 min. 1 sec.
+Soot started on Tue Apr 27 16:31:08 AEST 2021
+Soot finished on Tue Apr 27 16:31:16 AEST 2021
+Soot has run for 0 min. 7 sec.
+The following APIs are used by this app:
+android.location.LocationManager.requestLocationUpdates.String.long.float.LocationListener
+android.content.ContentResolver.insert.Uri.ContentValues
+android.location.LocationManager.getLastKnownLocation.String
+android.telephony.TelephonyManager.getDataNetworkType
+android.media.ExifInterface.saveAttributes
+android.graphics.drawable.InsetDrawable.getPadding.Rect
+android.location.LocationManager.requestLocationUpdates.String.long.float.LocationListener.Looper
+android.view.TextureView.setSurfaceTexture.SurfaceTexture
+android.location.LocationManager.sendExtraCommand.String.String.Bundle
+android.widget.AbsListView.onLayout.boolean.int.int.int.int
+android.net.SSLCertificateSocketFactory.createSocket.Socket.String.int.boolean

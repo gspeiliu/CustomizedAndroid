@@ -1,0 +1,28 @@
+Soot started on Tue Apr 27 16:31:39 AEST 2021
+Soot finished on Tue Apr 27 16:31:48 AEST 2021
+Soot has run for 0 min. 9 sec.
+Found 6 additional DEX files. Now visiting them one by one.
+Soot started on Tue Apr 27 16:31:48 AEST 2021
+Soot finished on Tue Apr 27 16:31:55 AEST 2021
+Soot has run for 0 min. 7 sec.
+Soot started on Tue Apr 27 16:31:55 AEST 2021
+Soot finished on Tue Apr 27 16:32:04 AEST 2021
+Soot has run for 0 min. 9 sec.
+Soot started on Tue Apr 27 16:32:04 AEST 2021
+Soot finished on Tue Apr 27 16:32:10 AEST 2021
+Soot has run for 0 min. 5 sec.
+Soot started on Tue Apr 27 16:32:10 AEST 2021
+Soot finished on Tue Apr 27 16:32:17 AEST 2021
+Soot has run for 0 min. 7 sec.
+Soot started on Tue Apr 27 16:32:17 AEST 2021
+Soot finished on Tue Apr 27 16:32:21 AEST 2021
+Soot has run for 0 min. 4 sec.
+Soot started on Tue Apr 27 16:32:21 AEST 2021
+Soot finished on Tue Apr 27 16:32:29 AEST 2021
+Soot has run for 0 min. 8 sec.
+The following APIs are used by this app:
+android.location.LocationManager.requestLocationUpdates.String.long.float.LocationListener
+android.content.ContentResolver.insert.Uri.ContentValues
+android.bluetooth.BluetoothAdapter.closeProfileProxy.int.BluetoothProfile
+android.location.LocationManager.getLastKnownLocation.String
+android.location.LocationManager.requestLocationUpdates.String.long.float.LocationListener.Looper

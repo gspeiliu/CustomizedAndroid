@@ -1,0 +1,5 @@
+Soot started on Tue Apr 27 13:18:54 AEST 2021
+Soot finished on Tue Apr 27 13:19:05 AEST 2021
+Soot has run for 0 min. 10 sec.
+Found 0 additional DEX files. Now visiting them one by one.
+The following APIs are used by this app:
