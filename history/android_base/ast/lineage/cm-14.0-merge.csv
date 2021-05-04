@@ -1,0 +1,2 @@
+Merge,Conflicts,Javas,AST
+79440ed0b4cd9ae1fff3f866abf3d449289678d4,2,2,"[['packages/SystemUI/src/com/android/systemui/statusbar/phone/StatusBarIconController.java', [[139, 141, 3, 12, ['<com.android.systemui.statusbar.phone.StatusBarIconController: void <init>(Context,View,View,PhoneStatusBar)>#113#145']]], [[0, 0, 0, 0, []]]], ['core/java/android/provider/Settings.java', [[6480, 6489, 10, 0, []], [6565, 6567, 3, 0, []]], [[6239, 6242, 4, 0, []], [6318, 6318, 1, 0, []]]]]"

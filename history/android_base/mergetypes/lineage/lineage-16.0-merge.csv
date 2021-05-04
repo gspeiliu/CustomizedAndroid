@@ -1,0 +1,12 @@
+Merge,Conflicts,Javas,Merge_Type
+31664aa5defc5bc091dffc8201ef48e540aa21c7,1,1,"Import:1,Method:2"
+5df8608656b363f13049855431e2618dd153edaf,1,1,
+6e7d07c3e9ed000778dede983193c2e8c5691c4e,1,1,"Constructor:1,Method:22"
+71911afa2c85bbbf9fa9ee1b4dd616b5681c6562,1,1,
+c84634b9b4278035e2c5b3ef38376ad4eea0c019,1,1,"Constructor:1,FieldComment:1,Method:22"
+ab78fedc0100a93b5e9590b0fdc5cfa48386184e,5,4,"Method:34,Constructor:2,Field:2"
+86f624786016fcd90918747cab2b72ca086cd817,1,0,
+1fe7143a8c349b64c9019d83782fd2d27e65a694,1,1,"Field:1,FieldComment:1"
+63d76f28fe78b240b481a690e14966fb3838aa3f,3,3,"Field:3,Method:5,Constructor:3"
+12930acc5076e1acff0744b8d225bb2d2173f1b5,10,7,"Method:43,Constructor:6,Field:6,ClsDecl:1,MethodComment:1,ClsInterfaceComment:1"
+8f7726cc447f76dd163e9813f1aef8de3907141e,4,4,"Field:3,Method:21,Import:1"

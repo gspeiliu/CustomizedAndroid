@@ -1,0 +1,2 @@
+Merge,Conflicts,Javas,AST
+26aa773459a93813e9a5644c8d13ab70f53677a4,2,2,"[['packages/SystemUI/src/com/android/systemui/statusbar/phone/NotificationPanelView.java', [[2478, 2478, 1, 7], [2484, 2484, 1, 5]], [[2443, 2443, 1, 5], [2449, 2449, 1, 4]]], ['packages/SystemUI/src/com/android/systemui/statusbar/phone/KeyguardBottomAreaView.java', [[893, 893, 1, 4]], [[849, 849, 1, 3]]]]"

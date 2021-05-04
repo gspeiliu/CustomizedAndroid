@@ -1,0 +1,3 @@
+Merge,Conflicts,Javas,AST
+aea51adde7842cf8548c923883abd6db46377fde,1,1,"[['services/java/com/android/server/PowerManagerService.java', [[2080, 2081, 2, 5]], [[2094, 2094, 1, 4]]]]"
+d79e5b080b4d113fb85c65e6a32ee4bbb335c93c,3,1,"[['core/java/android/net/SSLCertificateSocketFactory.java', [[250, 250, 1, 0], [256, 256, 1, 3], [250, 250, 1, 0], [256, 256, 1, 3], [250, 250, 1, 0], [256, 256, 1, 3]], [[250, 251, 2, 0], [257, 259, 3, 4], [250, 251, 2, 0], [257, 259, 3, 4], [250, 251, 2, 0], [257, 259, 3, 4]]]]"

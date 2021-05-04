@@ -1,0 +1,6 @@
+Merge,Conflicts,Javas,Merge_Type
+7c0f936c380f0b40017aeba127010f34ca858835,2,2,"Method:1,Field:1,FieldComment:1"
+b0a2fb061a8564e9c6db2b9349728e03063f293f,2,2,Method:1
+acd584264d7bc0c55a039f666d45df4fb84c4118,7,5,"MethodComment:4,Field:2,FieldComment:1,Method:40,Constructor:4,Import:1"
+428a29d44e033926be8ebbe9cfa7f28a48f8318a,3,1,MethodComment:1
+dd8a357f4887fcf963d9973c37e468bbe3ac8293,4,2,"Field:2,FieldComment:1,Import:1"

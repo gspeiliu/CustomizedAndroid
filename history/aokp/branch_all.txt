@@ -1,0 +1,4 @@
+origin/mm
+origin/nougat
+origin/oreo
+origin/pie

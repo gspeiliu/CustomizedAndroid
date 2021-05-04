@@ -1,0 +1,5 @@
+Merge,Conflicts,Javas,AST
+1d8f2ed2c55d6dd00546bb8f7e27f72939bf7e2b,1,1,"[['packages/SystemUI/src/com/android/systemui/screenshot/GlobalScreenshot.java', [[509, 510, 2, 14, ['<com.android.systemui.screenshot.GlobalScreenshot: void <init>(Context)>#500#567']]], [[469, 470, 2, 7, ['<com.android.systemui.screenshot.GlobalScreenshot: void <init>(Context)>#460#527']]]]]"
+6aed87b6b8ba76e8b4f11333c0669efa48357ea8,1,1,"[['core/java/android/content/res/AssetManager.java', [[120, 131, 12, 21, ['<android.content.res.AssetManager: void ensureExtraAssets(AssetManager)>#120#130']]], [[0, 0, 0, 0, []]]]]"
+51674980eb38ad79d0782e2e68a51050c347fb01,1,1,"[['core/java/android/text/TextLine.java', [[0, 0, 0, 0, []], [0, 0, 0, 0, []], [0, 0, 0, 0, []]], [[241, 244, 4, 12, ['<android.text.TextLine: void draw(Canvas,float,int,int,int)>#223#273']], [241, 244, 4, 12, ['<android.text.TextLine: void draw(Canvas,float,int,int,int)>#223#273']], [409, 412, 4, 12, ['<android.text.TextLine: float[] measureAllOffsets(boolean[],FontMetricsInt)>#377#464']]]]]"
+7e2dc21a927d9ec637b943147877631d8bfea3b7,1,0,[]
